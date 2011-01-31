@@ -1,3 +1,5 @@
 A convention oriented domain driven development framework for core java. Intended as an ultralight replacement for other popular frameworks of the like, with a small solid codebase that can be borrowed from at will. 
 
 Currently in a pre-release state, much is predictably broken. There however many units of functionality that can easily be pried away from their collaboraters and made to do your bidding with little effort.
+
+This is very much a WIP, which unfortunately is only currently documented via junit and javadoc.
