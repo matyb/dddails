@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/util
+END
+Equals.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/37/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/util/Equals.java
+END
+MethodConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/16/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/util/MethodConstants.java
+END
+MethodSuitability.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/37/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/util/MethodSuitability.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/16/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/util/Predicate.java
+END
+HasValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/util/HasValue.java
+END
+Null.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/util/Null.java
+END
+HasMutableValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/16/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/util/HasMutableValue.java
+END
+HasKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/util/HasKey.java
+END

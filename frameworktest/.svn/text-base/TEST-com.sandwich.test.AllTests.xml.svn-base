@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="jathew-PC" name="com.sandwich.test.AllTests" tests="185" time="5.508" timestamp="2010-12-30T09:53:10">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.6.0_21\jre\bin" />
+    <property name="java.vm.version" value="17.0-b17" />
+    <property name="ant.library.dir" value="C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib" />
+    <property name="ant.version" value="Apache Ant version 1.7.1 compiled on June 27 2008" />
+    <property name="ant.java.version" value="1.6" />
+    <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+    <property name="java.vendor.url" value="http://java.sun.com/" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="user.dir" value="C:\Users\jathew\workspace-dddails\frameworktest" />
+    <property name="home" value=".." />
+    <property name="dest.dir.lib" value="lib" />
+    <property name="java.runtime.version" value="1.6.0_21-b07" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="basedir" value="C:\Users\jathew\workspace-dddails\frameworktest" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.6.0_21\jre\lib\endorsed" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.io.tmpdir" value="C:\Users\jathew\AppData\Local\Temp\" />
+    <property name="ant.core.lib" value="C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant.jar" />
+    <property name="line.separator" value="
+" />
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="user.variant" value="" />
+    <property name="os.name" value="Windows 7" />
+    <property name="ant.home" value="C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145" />
+    <property name="ant.project.name" value="dddails" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.library.path" value="C:\Windows\system32;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Java\jdk1.6.0_21;C:\Users\jathew\eclipse\configuration\org.eclipse.osgi\bundles\210\1\.cp" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="50.0" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Server Compiler" />
+    <property name="dest.dir" value="../build" />
+    <property name="os.version" value="6.1" />
+    <property name="ant.file" value="C:\Users\jathew\workspace-dddails\frameworktest\build.xml" />
+    <property name="user.home" value="C:\Users\jathew" />
+    <property name="user.timezone" value="" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.specification.version" value="1.6" />
+    <property name="java.class.path" value="C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-antlr.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-apache-bcel.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-apache-bsf.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-apache-log4j.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-apache-oro.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-apache-regexp.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-apache-resolver.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-commons-logging.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-commons-net.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-jai.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-javamail.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-jdepend.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-jmf.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-jsch.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-junit.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-launcher.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-netrexx.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-nodeps.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-starteam.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-stylebook.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-swing.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-trax.jar;C:\Users\jathew\eclipse\plugins\org.apache.ant_1.7.1.v20100518-1145\lib\ant-weblogic.jar;C:\Users\jathew\eclipse\configuration\org.eclipse.osgi\bundles\29\1\.cp\lib\antdebug.jar;C:\Users\jathew\eclipse\configuration\org.eclipse.osgi\bundles\29\1\.cp\lib\remote.jar;C:\Users\jathew\eclipse\configuration\org.eclipse.osgi\bundles\30\1\.cp\lib\remoteAnt.jar;C:\Program Files\Java\jdk1.6.0_21\lib\tools.jar;C:\Users\jathew\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64_3.6.1.v3655c.jar" />
+    <property name="user.name" value="jathew" />
+    <property name="dest.dir.classes" value="../build/classes" />
+    <property name="java.vm.specification.version" value="1.0" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.6.0_21\jre" />
+    <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="user.language" value="en" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.version" value="1.6.0_21" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.6.0_21\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.6.0_21\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0_21\jre\classes" />
+    <property name="java.vendor" value="Sun Microsystems Inc." />
+    <property name="file.separator" value="\" />
+    <property name="test.data.dir" value="../build/testdata" />
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+    <property name="ant.file.dddails" value="C:\Users\jathew\workspace-dddails\frameworktest\build.xml" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="sun.desktop" value="windows" />
+    <property name="sun.cpu.isalist" value="amd64" />
+  </properties>
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.EqualsTest" name="testStrictEqualsInvocationWithZeroArg" time="0.692" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.EqualsTest" name="testStrictEqualsInvocationWithSingleArg" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.EqualsTest" name="testStrictEqualsInvocationWithTwoArg" time="0.013" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.EqualsTest" name="testStrictEqualsInvocationWithThreeArg" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.EqualsTest" name="testLooseEqualsInvocationWithZeroArg" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.EqualsTest" name="testLooseEqualsInvocationWithSingleArg" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.EqualsTest" name="testLooseEqualsInvocationWithTwoArg" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.EqualsTest" name="testLooseEqualsInvocationWithThreeArg" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.EqualsTest" name="testEqualsInvocationWith_null" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.EqualsTest" name="testEqualsInvocationWith_emptyArray" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_null_null" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_Null_null" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_null_Null" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_Null_Null" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_null_1" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_1_null" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_Null_1" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_1_Null" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_1_1" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_1_2" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_2_1" time="0.0060" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testEmptyListEmptySet" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testEmptySetEmptyMap" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testEmptyMapEmptyString" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testEmptyListTrimmedString" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testEmptyListNull" time="0.0060" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testEmptyList_null" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testEmptyArray_null" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testArrayPaddedWithNullsEmptyList" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testArrayContainsOneObjectEmptyList" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_Object_null" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testLooseEquals_Null_Object" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testEmptyListOneObjectInSet" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testEmptySetOneObjectInMap" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testEmptyMapStringWithOneNonWhiteSpaceChar" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testEmptyListTrimmedStringWithOneNonWhiteSpaceChar" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testNullWithOneObjectInList" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testNestedEmptyString_list" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.LooseTwoObjectEqualsTest" name="testNestedEmptyList_list" time="0.027" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.NullOrEmptyTest" name="testString" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.NullOrEmptyTest" name="testNullIsNull" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.NullOrEmptyTest" name="testnullIsNull" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.NullOrEmptyTest" name="testCollection" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.NullOrEmptyTest" name="testMap" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.NullOrEmptyTest" name="testTrimString" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.NullOrEmptyTest" name="testArray" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.NullOrEmptyTest" name="testnestedArray" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.NullOrEmptyTest" name="testKitchenSink_allEqual_nullElements" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.NullOrEmptyTest" name="testKitchenSink_oneObjectInstanceInArray" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testStrictEquals_Null_null" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testStrictEquals_null_Null" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testStrictEquals_null_null" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testStrictEquals_Null_Null" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testStrictEquals_null_1" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testStrictEquals_1_null" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testStrictEquals_Null_1" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testStrictEquals_1_Null" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testStrictEquals_1_1" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testStrictEquals_1_2" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testStrictEquals_2_1" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testObjectEqualsNotInvokedNullArg_1" time="0.0020" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testObjectEqualsNotInvokedNullArg_2" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.equals.StrictTwoObjectEqualsTest" name="testObjectEqualsInvokedNonNullArgs" time="0.0020" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testNoErrors_to" time="0.017" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testNoErrors_entity" time="0.0040" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testNoMutation_to" time="0.0" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testNoMutation_entity" time="0.02" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testNullArgumentConstruction_to" time="0.0040" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testNullArgumentConstruction_entity" time="0.0010" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testGetIsntOne_to" time="0.0" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testGetIsntOne_entity" time="0.0010" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testCreationWNonOneValueNoException_to" time="0.0" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testCreationWNonOneValueNoException_entity" time="0.0" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testAssertOneFailure_to" time="0.0010" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testAssertOneFailure_entity" time="0.0010" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testServerSideValidation_entity" time="0.0010" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testDynamicProxyOneHolder_immutableInterface" time="0.141" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testDynamicProxyOneHolder_mutableInterface" time="0.022" />
+  <testcase classname="com.sandwich.shared.oneholder.ReallySimpleValidatableTOImplTest" name="testMethodsOfCustomTOsAreUtilized" time="0.0030" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testGetDomainClassesIsImmutable_remove" time="0.065" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testGetViewClassesIsImmutable_remove" time="0.034" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testGetControllerClassesIsImmutable_remove" time="0.019" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testApplicationInitialized" time="0.017" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testApplicationInitialized2x" time="0.03" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testGetDTOs_dynamicProxyInstance" time="0.105" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testGetDTOs_toImpl" time="0.02" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testWriteUpdatable" time="0.038" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testWriteUpdatable_viaTOImpl" time="0.06" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testReadReadOnly" time="0.034" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testDTOInterfaceReadOnly" time="0.02" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testVanillaDTOReadOnly" time="0.017" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testGetDTOsLogging" time="0.025" />
+  <testcase classname="com.sandwich.server.ApplicationTest" name="testGetDTOsSerialize" time="0.027" />
+  <testcase classname="com.sandwich.server.BootstrapTest" name="testConstuction" time="0.0050" />
+  <testcase classname="com.sandwich.server.BootstrapTest" name="testConstuction_fileNotFound" time="0.0010" />
+  <testcase classname="com.sandwich.server.BootstrapTest" name="testGetters" time="0.0040" />
+  <testcase classname="com.sandwich.server.BootstrapTest" name="test_getDomainClasses" time="0.0060" />
+  <testcase classname="com.sandwich.server.BootstrapTest" name="test_getViewClasses" time="0.0060" />
+  <testcase classname="com.sandwich.server.BootstrapTest" name="test_getControllerClasses" time="0.0070" />
+  <testcase classname="com.sandwich.server.BootstrapTest" name="testMain_throwExceptionIfNoArgs_null" time="0.0" />
+  <testcase classname="com.sandwich.server.BootstrapTest" name="testMain_throwExceptionIfNoArgs_emptyArray" time="0.0" />
+  <testcase classname="com.sandwich.server.BootstrapTest" name="testMain_throwExceptionIfNoArgs_arrayNullElement" time="0.0" />
+  <testcase classname="com.sandwich.shared.DTOManagerTest" name="testGetBusObjNames" time="0.036" />
+  <testcase classname="com.sandwich.shared.DTOManagerTest" name="testGetObjectClone_standardDTO" time="0.029" />
+  <testcase classname="com.sandwich.shared.DTOManagerTest" name="testGetObjectClone_dtoFacade" time="0.023" />
+  <testcase classname="com.sandwich.shared.DTOManagerTest" name="testGetObjectClone" time="0.026" />
+  <testcase classname="com.sandwich.shared.DTOManagerTest" name="testGetObjectClone_serializability" time="0.053" />
+  <testcase classname="com.sandwich.ui.CFactoryTest" name="testCreateComponent_string_noKey" time="0.175" />
+  <testcase classname="com.sandwich.ui.CFactoryTest" name="testCreateComponent_dto_noKey" time="0.0070" />
+  <testcase classname="com.sandwich.ui.CFactoryTest" name="testCreateComponent_string_withKey" time="0.0020" />
+  <testcase classname="com.sandwich.ui.CFactoryTest" name="testLabelCreation_readOnly" time="0.0" />
+  <testcase classname="com.sandwich.ui.CFactoryTest" name="testLabelCreation_string" time="0.0010" />
+  <testcase classname="com.sandwich.ui.CFactoryTest" name="testTextBoxCreation_hasValue" time="0.094" />
+  <testcase classname="com.sandwich.ui.CFactoryTest" name="testDTOToPanelAndBackAgain" time="0.027" />
+  <testcase classname="com.sandwich.ui.CFactoryTest" name="testDTOToPanelAndBackToSerializedFormAgain" time="0.01" />
+  <testcase classname="com.sandwich.ui.CFactoryTest" name="testDTOToPanelAndBackToBOAgain" time="0.0060" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testTOCreation" time="0.0030" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testTOCreation_actualSerialization" time="0.0080" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testBusObjNotSerializable" time="0.042" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testTOCreationWhenExtending" time="0.0020" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testTOCreationWhenExtending_getAllIterationOrder" time="0.0010" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testBusObjCreationFromImmutableBusObjTransferObjectConversion" time="0.0010" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testBusObjCreationFromMutableBusObjTransferObjectConversion" time="0.0020" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testBusObjCreationFromTO_childClass" time="0.0020" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testBusObjCreationFromTO_childClassSerializability" time="0.0030" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testModifyingTOAndConvertingToBusObj_mutable" time="0.0020" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testModifyingTOAndConvertingToBusObj_immutable_noChanges" time="0.0010" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testModifyingTOAndConvertingToBusObj_immutable_throwRuntime" time="0.0" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testModifyingTOAndConvertingToBusObj_conversionToNull" time="0.0" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testNullValueClassOfFieldIsSubstituted" time="0.0020" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testNullValueIsNullWhenConvertedToBusinessObject" time="0.0" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testModifiabilityOfGetAll" time="0.0010" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testModifiabilityOfGetAll_throwsException" time="0.0020" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testAnonymousInnerClass" time="0.0020" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testDynamicProxyGeneration" time="0.0060" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testDynamicPojo_isNotABusObj_busObj" time="0.0080" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testDynamicPojo_isSerializeable_busObj" time="0.0010" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testDynamicPojo_behaviorInference_busObj" time="0.0010" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testDynamicPojo_busObj_instanceTransformation" time="0.0010" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testDynamicPojo_busObj_transformBackToBusObj" time="0.0010" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testDynamicPojoActualSerialization" time="0.01" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testDynamicPojo_methodSuitabilityUsage" time="0.0010" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testDynamicPojo_methodSuitabilityUsageWithEntity_extendsHasKey" time="0.0090" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testNestedBusObj_createDTO_nullNestedBusObjReference" time="0.0030" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testNestedBusObj_createDTO_populateNestedBusObjReference_throwsException" time="0.0" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testNestedBusObj_createDTO_populateNestedBusObjReference" time="0.0010" />
+  <testcase classname="com.sandwich.server.SerializableManagerTest" name="testNestedBusObj_createDTO_serialization" time="0.021" />
+  <testcase classname="com.sandwich.test.DoTimesTest" name="testDoTimes_negNumberOfTimes" time="0.0020" />
+  <testcase classname="com.sandwich.test.DoTimesTest" name="testDoTimes_zeroNumberOfTimes" time="0.0010" />
+  <testcase classname="com.sandwich.test.DoTimesTest" name="testDoTimes_once" time="0.0" />
+  <testcase classname="com.sandwich.test.DoTimesTest" name="testDoTimes_twice" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.SandwichWrapperTest" name="testHashCode_object" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.SandwichWrapperTest" name="testHashCode_wrappedObject" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.SandwichWrapperTest" name="testHashCode_passedToWrappedInstance" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.SandwichWrapperTest" name="testGetValue" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.SandwichWrapperTest" name="testEquals_object" time="0.0020" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.SandwichWrapperTest" name="testEquals_wrappedObject" time="0.0010" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.SandwichWrapperTest" name="testToString" time="0.0" />
+  <testcase classname="com.sandwich.shared.serialiazable.sandwichobject.SandwichWrapperTest" name="testEquals" time="0.0020" />
+  <testcase classname="com.sandwich.shared.StrippedNameTest" name="testCreation_0LengthString" time="0.0" />
+  <testcase classname="com.sandwich.shared.StrippedNameTest" name="testCreation_nullString" time="0.0" />
+  <testcase classname="com.sandwich.shared.StrippedNameTest" name="testCreation_nullClass" time="0.0010" />
+  <testcase classname="com.sandwich.shared.StrippedNameTest" name="testCreation_0LengthString_originalAndStripped" time="0.0" />
+  <testcase classname="com.sandwich.shared.StrippedNameTest" name="testCreation_null_originalAndStripped" time="0.0010" />
+  <testcase classname="com.sandwich.shared.StrippedNameTest" name="testProperClass" time="0.0" />
+  <testcase classname="com.sandwich.shared.StrippedNameTest" name="testValidationClass" time="0.0" />
+  <testcase classname="com.sandwich.shared.StrippedNameTest" name="testEntityClass" time="0.0" />
+  <testcase classname="com.sandwich.shared.StrippedNameTest" name="testTOClass" time="0.0" />
+  <testcase classname="com.sandwich.test.TestUtilsTest" name="testEqualsConcurrency_concurrentAccessFails" time="0.036" />
+  <testcase classname="com.sandwich.test.TestUtilsTest" name="testEqualsConcurrency_concurrentAccessFails_assertIllegalMonitorStateException" time="0.014" />
+  <testcase classname="com.sandwich.test.TestUtilsTest" name="testEqualsConcurrency" time="0.904" />
+  <testcase classname="com.sandwich.test.TestUtilsTest" name="testEqualsConcurrency_II" time="0.156" />
+  <testcase classname="com.sandwich.shared.UtilsTest" name="testCopyArrays_empty" time="0.0" />
+  <testcase classname="com.sandwich.shared.UtilsTest" name="testCopyArrays_null" time="0.0" />
+  <testcase classname="com.sandwich.shared.UtilsTest" name="testCopyArrays_noiNullElements" time="0.0010" />
+  <testcase classname="com.sandwich.shared.UtilsTest" name="testCopyArrays_typeMismatch" time="0.0" />
+  <testcase classname="com.sandwich.shared.UtilsTest" name="testCopyArrays_compilesWithGenerics" time="0.0010" />
+  <testcase classname="com.sandwich.shared.UtilsTest" name="testCopyArrays_withPredicate" time="0.0010" />
+  <testcase classname="com.sandwich.shared.UtilsTest" name="testCopyArrays_withPredicate_justToFindElement" time="0.0010" />
+  <testcase classname="com.sandwich.test.PerformanceTests" name="testGetObjectClone_performance" time="0.185" />
+  <testcase classname="com.sandwich.test.PerformanceTests" name="testTimeDifferenceInstantiationVsCaching_to" time="0.039" />
+  <testcase classname="com.sandwich.test.PerformanceTests" name="testTimeDifferenceInstantiationVsCaching_entity" time="0.114" />
+  <testcase classname="com.sandwich.test.PerformanceTests" name="testMutableWrapperPerformance_creation" time="0.258" />
+  <testcase classname="com.sandwich.test.PerformanceTests" name="testMutableWrapperPerformance_equals" time="0.086" />
+  <testcase classname="com.sandwich.test.PerformanceTests" name="testMutableWrapperPerformance_hashCollectionAccess" time="0.043" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Dec 30, 2010 4:53:12 AM com.sandwich.server.Application getDTOs
+INFO: class com.sandwich.server.domain.Domain was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:12 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.ReadWriteExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:12 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.SerializableRWExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:12 AM com.sandwich.server.Application getDTOs
+INFO: class com.sandwich.server.domain.Domain was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:12 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.ReadWriteExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:12 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.SerializableRWExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:12 AM com.sandwich.server.Application getDTOs
+INFO: class com.sandwich.server.domain.Domain was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:12 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.ReadWriteExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:12 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.SerializableRWExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: class com.sandwich.server.domain.Domain was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.ReadWriteExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.SerializableRWExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: class com.sandwich.server.domain.Domain was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.ReadWriteExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.SerializableRWExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: class com.sandwich.server.domain.Domain was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.ReadWriteExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.SerializableRWExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: class com.sandwich.server.domain.Domain was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.ReadWriteExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.SerializableRWExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: class com.sandwich.server.domain.Domain was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.ReadWriteExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.SerializableRWExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: class com.sandwich.server.domain.Domain was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.ReadWriteExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.SerializableRWExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.shared.DTOManager <clinit>
+SEVERE: Application Object is not reachable from client context! Add middleware for access
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: class com.sandwich.server.domain.Domain was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.ReadWriteExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.server.Application getDTOs
+INFO: interface com.sandwich.server.domain.subpkg.SerializableRWExample was not a BusObj implementation and thus it will not appear outside the service layer.
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+Dec 30, 2010 4:53:13 AM com.sandwich.ui.components.factory.CFactory getDescription
+INFO: about time you got around to adding .properties support
+]]></system-err>
+</testsuite>

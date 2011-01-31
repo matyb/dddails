@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/28/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/transferobject
+END
+DTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/transferobject/DTO.java
+END
+DTOHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/37/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/transferobject/DTOHandler.java
+END
+TOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/37/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/transferobject/TOImpl.java
+END
+TransferObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/16/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/transferobject/TransferObject.java
+END

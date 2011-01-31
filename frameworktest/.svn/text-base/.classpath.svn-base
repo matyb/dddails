@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="unit"/>
+	<classpathentry kind="src" path="integration"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/framework"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/sharedvalidation"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/sharedvalidationexample"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/sandwich-client"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/sandwich-server"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/sandwich-shared"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/sandwich-test"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/sandwich-tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="lib" path="lib/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/easymock-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

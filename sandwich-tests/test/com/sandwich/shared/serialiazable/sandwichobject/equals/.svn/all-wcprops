@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/29/trunk/sandwich-tests/test/com/sandwich/shared/serialiazable/sandwichobject/equals
+END
+LooseTwoObjectEqualsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/37/trunk/sandwich-tests/test/com/sandwich/shared/serialiazable/sandwichobject/equals/LooseTwoObjectEqualsTest.java
+END
+NullOrEmptyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/29/trunk/sandwich-tests/test/com/sandwich/shared/serialiazable/sandwichobject/equals/NullOrEmptyTest.java
+END
+StrictTwoObjectEqualsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/37/trunk/sandwich-tests/test/com/sandwich/shared/serialiazable/sandwichobject/equals/StrictTwoObjectEqualsTest.java
+END
+EqualsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/29/trunk/sandwich-tests/test/com/sandwich/shared/serialiazable/sandwichobject/equals/EqualsTest.java
+END

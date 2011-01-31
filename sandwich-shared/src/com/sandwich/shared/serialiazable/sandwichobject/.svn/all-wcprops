@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/28/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject
+END
+MutableWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/29/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject/MutableWrapper.java
+END
+SandwichObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/37/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject/SandwichObject.java
+END
+SandwichWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/37/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject/SandwichWrapper.java
+END
+ReadOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/37/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject/ReadOnly.java
+END

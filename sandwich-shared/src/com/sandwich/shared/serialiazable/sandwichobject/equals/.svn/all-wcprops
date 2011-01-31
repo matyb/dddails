@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject/equals
+END
+LooseEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/37/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject/equals/LooseEquals.java
+END
+TwoObjectEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/29/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject/equals/TwoObjectEquals.java
+END
+EmptyChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/29/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject/equals/EmptyChecker.java
+END
+NullOrEmpty.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/29/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject/equals/NullOrEmpty.java
+END
+NullSafeEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/37/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject/equals/NullSafeEquals.java
+END
+WrapperSensitiveEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/37/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/sandwichobject/equals/WrapperSensitiveEquals.java
+END

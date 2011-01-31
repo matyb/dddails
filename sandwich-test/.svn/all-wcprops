@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/28/trunk/sandwich-test
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/27/trunk/sandwich-test/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/27/trunk/sandwich-test/.classpath
+END

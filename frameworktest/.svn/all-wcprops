@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/33/trunk/frameworktest
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/35/trunk/frameworktest/build.xml
+END
+TEST-com.sandwich.test.AllTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/37/trunk/frameworktest/TEST-com.sandwich.test.AllTests.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/frameworktest/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/frameworktest/.classpath
+END

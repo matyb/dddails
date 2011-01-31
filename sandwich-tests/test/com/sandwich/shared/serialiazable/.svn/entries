@@ -1,0 +1,34 @@
+10
+
+dir
+33
+https://dddails.googlecode.com/svn/trunk/sandwich-tests/test/com/sandwich/shared/serialiazable
+https://dddails.googlecode.com/svn
+
+
+
+2010-12-30T00:08:00.350089Z
+29
+mathewkbentley
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37c72a39-152e-d226-7ceb-57e3b935014c
+
+sandwichobject
+dir
+
+util
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/33/trunk/frameworktest/unit/com/sandwich/server
+END
+BootstrapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/36/trunk/frameworktest/unit/com/sandwich/server/BootstrapTest.java
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/33/trunk/frameworktest/unit/com/sandwich/server/config.xml
+END
+ApplicationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/frameworktest/unit/com/sandwich/server/ApplicationTest.java
+END
+ApplicationBootstrappingTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/36/trunk/frameworktest/unit/com/sandwich/server/ApplicationBootstrappingTestCase.java
+END

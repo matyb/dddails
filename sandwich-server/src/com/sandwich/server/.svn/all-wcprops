@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/trunk/sandwich-server/src/com/sandwich/server
+END
+HasDynamicDTOInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/sandwich-server/src/com/sandwich/server/HasDynamicDTOInterface.java
+END
+SerializableManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/37/trunk/sandwich-server/src/com/sandwich/server/SerializableManager.java
+END
+BusObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/37/trunk/sandwich-server/src/com/sandwich/server/BusObj.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/sandwich-server/src/com/sandwich/server/Entity.java
+END
+DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/sandwich-server/src/com/sandwich/server/DAO.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/sandwich-server/src/com/sandwich/server/Utils.java
+END

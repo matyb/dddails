@@ -1,0 +1,96 @@
+<project name="dddails" basedir="." default="test">
+
+	<property name="dest.dir" value="../build" />
+	<property name="dest.dir.classes" value="${dest.dir}/classes" />
+	<property name="test.data.dir" value="${dest.dir}/testdata" />
+	<property name="dest.dir.lib" value="lib" />
+	<property name="home" value=".." />
+
+	<path id="build.class.path">
+		<fileset dir="${dest.dir.classes}" >
+			<include name="*.xml" />
+		</fileset>
+	</path>
+	<path id="build.junit.path">
+		<fileset dir="${dest.dir.lib}" >
+			<include name="*.jar" />
+		</fileset>
+	</path>
+	<path id="test.class.path">
+		<pathelement location="${dest.dir.classes}" />
+	</path>
+
+	<target name="clean">
+		<delete dir="${dest.dir}" />
+	</target>
+
+	<target name="prepare">
+		<mkdir dir="${dest.dir}" />
+		<mkdir dir="${dest.dir.classes}" />
+		<mkdir dir="${test.data.dir}" />
+		<copy todir="${dest.dir.classes}/com/sandwich/server/">
+	      <fileset file="./unit/com/sandwich/server/config.xml"/>
+	    </copy>
+	</target>
+
+	<target name="compile" depends="clean,prepare">
+		<javac srcdir="../sandwich-shared/src" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+		</javac>
+		<javac srcdir="../sandwich-server/src" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+		</javac>
+		<javac srcdir="../sandwich-client/src" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+		</javac>
+		<javac srcdir="../sandwich-test/src" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+			<classpath refid="build.junit.path" />
+		</javac>
+		<javac srcdir="../sandwich-tests/src" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+		</javac>
+		<javac srcdir="../sandwich-tests/test" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+			<classpath refid="build.junit.path" />
+		</javac>
+		<javac srcdir="../sharedvalidation/src" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+		</javac>
+		<javac srcdir="../sharedvalidationexample/src" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+		</javac>
+		<javac srcdir="../sharedvalidationexample/test" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+			<classpath refid="build.junit.path" />
+		</javac>
+		<javac srcdir="../framework/src" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+		</javac>
+		<javac srcdir="src" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+		</javac>
+		<javac srcdir="unit" destdir="${dest.dir.classes}" includes="**/*.java, **/*.xml">
+			<classpath refid="build.class.path" />
+			<classpath refid="build.junit.path" />
+		</javac>
+		<javac srcdir="integration" destdir="${dest.dir.classes}">
+			<classpath refid="build.class.path" />
+			<classpath refid="build.junit.path" />
+		</javac>
+	</target>
+
+	<target name="run" depends="compile" />
+
+	<target name="test" depends="compile">
+		<junit>
+			<classpath refid="test.class.path" />
+			<classpath refid="build.class.path" />
+			<classpath refid="build.junit.path" />
+			<formatter type="brief" usefile="false" />
+			<formatter type="xml"/>
+			<test todir="${test.data.dir}"
+				name="com.sandwich.test.AllTests" />
+		</junit>
+	</target>
+</project>

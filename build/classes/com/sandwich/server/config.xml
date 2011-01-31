@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application name="testApp">
+	<version>0.1</version>
+	<view-framework>Swing</view-framework>
+	<orm-framework>Hibernate</orm-framework>
+	<domain-pkg>com.sandwich.server.domain</domain-pkg>
+	<controller-pkg>com.sandwich.server.controller</controller-pkg>
+	<view-pkg>com.sandwich.client.view</view-pkg>
+</application>

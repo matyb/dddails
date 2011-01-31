@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7/trunk/framework/src/com/sandwich/server
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/34/trunk/framework/src/com/sandwich/server/Application.java
+END
+Bootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/framework/src/com/sandwich/server/Bootstrap.java
+END
+DefaultApplicationSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7/trunk/framework/src/com/sandwich/server/DefaultApplicationSettings.java
+END

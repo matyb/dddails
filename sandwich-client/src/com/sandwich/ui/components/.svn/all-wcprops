@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/trunk/sandwich-client/src/com/sandwich/ui/components
+END
+IntegerTextBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9/trunk/sandwich-client/src/com/sandwich/ui/components/IntegerTextBox.java
+END
+LabeledComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/trunk/sandwich-client/src/com/sandwich/ui/components/LabeledComponent.java
+END
+SandwichLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/trunk/sandwich-client/src/com/sandwich/ui/components/SandwichLabel.java
+END
+MutableComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/trunk/sandwich-client/src/com/sandwich/ui/components/MutableComponent.java
+END
+DTOPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/sandwich-client/src/com/sandwich/ui/components/DTOPanel.java
+END
+SandwichTextBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9/trunk/sandwich-client/src/com/sandwich/ui/components/SandwichTextBox.java
+END
+SandwichComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9/trunk/sandwich-client/src/com/sandwich/ui/components/SandwichComponent.java
+END

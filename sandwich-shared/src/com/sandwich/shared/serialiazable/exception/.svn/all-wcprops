@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/exception
+END
+UnanticipatedObjectTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/16/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/exception/UnanticipatedObjectTypeException.java
+END
+ReadOnlyModificationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/37/trunk/sandwich-shared/src/com/sandwich/shared/serialiazable/exception/ReadOnlyModificationException.java
+END

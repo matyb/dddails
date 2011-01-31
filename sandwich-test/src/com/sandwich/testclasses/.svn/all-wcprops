@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses
+END
+SomeRandomBusObjChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/SomeRandomBusObjChild.java
+END
+NestedBusObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/NestedBusObj.java
+END
+SomeRandomBusObjImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/SomeRandomBusObjImpl.java
+END
+NestedMutableBusObjPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/NestedMutableBusObjPOJO.java
+END
+LiteVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/LiteVO.java
+END
+BusinessPOJOEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/BusinessPOJOEntity.java
+END
+SomeRandomMutableBusObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/SomeRandomMutableBusObj.java
+END
+BusinessPOJOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/BusinessPOJOImpl.java
+END
+BusinessPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/BusinessPOJO.java
+END
+DynamicPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/DynamicPOJO.java
+END
+SerializablePOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/SerializablePOJO.java
+END
+RandomMutableBusObjChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/RandomMutableBusObjChild.java
+END
+SomeRandomBusObjTransientField.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/SomeRandomBusObjTransientField.java
+END
+RandomMutableBusObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/RandomMutableBusObj.java
+END
+NestedSerializablePOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/NestedSerializablePOJO.java
+END
+RandomBusObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/RandomBusObj.java
+END
+SomeRandomMutableBusObjChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/SomeRandomMutableBusObjChild.java
+END
+RandomBusObjTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/RandomBusObjTO.java
+END
+NestedBusObjPOJOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/27/trunk/sandwich-test/src/com/sandwich/testclasses/NestedBusObjPOJOImpl.java
+END

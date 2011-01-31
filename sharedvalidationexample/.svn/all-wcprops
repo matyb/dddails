@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/trunk/sharedvalidationexample
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/trunk/sharedvalidationexample/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/trunk/sharedvalidationexample/.classpath
+END

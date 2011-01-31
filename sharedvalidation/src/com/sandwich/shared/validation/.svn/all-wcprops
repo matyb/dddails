@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21/trunk/sharedvalidation/src/com/sandwich/shared/validation
+END
+ValidationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21/trunk/sharedvalidation/src/com/sandwich/shared/validation/ValidationResponse.java
+END
+ValidationResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21/trunk/sharedvalidation/src/com/sandwich/shared/validation/ValidationResponseImpl.java
+END
+Validatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21/trunk/sharedvalidation/src/com/sandwich/shared/validation/Validatable.java
+END
+Validation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21/trunk/sharedvalidation/src/com/sandwich/shared/validation/Validation.java
+END
+ValidatableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/21/trunk/sharedvalidation/src/com/sandwich/shared/validation/ValidatableImpl.java
+END
+FieldValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/21/trunk/sharedvalidation/src/com/sandwich/shared/validation/FieldValidator.java
+END
+ValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/21/trunk/sharedvalidation/src/com/sandwich/shared/validation/ValidationException.java
+END
+ErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21/trunk/sharedvalidation/src/com/sandwich/shared/validation/ErrorCode.java
+END
+ValidatableTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/34/trunk/sharedvalidation/src/com/sandwich/shared/validation/ValidatableTO.java
+END
